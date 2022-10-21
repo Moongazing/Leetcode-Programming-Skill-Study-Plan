@@ -1,0 +1,8 @@
+C:\Users\Yön\Desktop\LeetCode Solutions\LeetCode_StudyPlan_ProgrammingSkillOne_Solutions\DayTwo\bin\Debug\DayTwo.exe.config
+C:\Users\Yön\Desktop\LeetCode Solutions\LeetCode_StudyPlan_ProgrammingSkillOne_Solutions\DayTwo\bin\Debug\DayTwo.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\LeetCode_StudyPlan_ProgrammingSkillOne_Solutions\DayTwo\bin\Debug\DayTwo.pdb
+C:\Users\Yön\Desktop\LeetCode Solutions\LeetCode_StudyPlan_ProgrammingSkillOne_Solutions\DayTwo\obj\Debug\DayTwo.csproj.AssemblyReference.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\LeetCode_StudyPlan_ProgrammingSkillOne_Solutions\DayTwo\obj\Debug\DayTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\LeetCode_StudyPlan_ProgrammingSkillOne_Solutions\DayTwo\obj\Debug\DayTwo.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\LeetCode Solutions\LeetCode_StudyPlan_ProgrammingSkillOne_Solutions\DayTwo\obj\Debug\DayTwo.exe
+C:\Users\Yön\Desktop\LeetCode Solutions\LeetCode_StudyPlan_ProgrammingSkillOne_Solutions\DayTwo\obj\Debug\DayTwo.pdb
